@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\bin\Debug\net8.0\NguoiGiaoHang.exe
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\bin\Debug\net8.0\NguoiGiaoHang.deps.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\bin\Debug\net8.0\NguoiGiaoHang.runtimeconfig.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\bin\Debug\net8.0\NguoiGiaoHang.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\bin\Debug\net8.0\NguoiGiaoHang.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\refint\NguoiGiaoHang.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\NguoiGiaoHang.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\NguoiGiaoHang\obj\Debug\net8.0\ref\NguoiGiaoHang.dll

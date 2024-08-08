@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\bin\Debug\net8.0\Balo.exe
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\bin\Debug\net8.0\Balo.deps.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\bin\Debug\net8.0\Balo.runtimeconfig.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\bin\Debug\net8.0\Balo.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\bin\Debug\net8.0\Balo.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\refint\Balo.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\Balo.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Balo\obj\Debug\net8.0\ref\Balo.dll

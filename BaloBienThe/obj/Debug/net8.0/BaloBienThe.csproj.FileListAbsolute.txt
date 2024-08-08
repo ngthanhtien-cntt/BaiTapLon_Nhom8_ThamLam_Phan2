@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\bin\Debug\net8.0\BaloBienThe.exe
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\bin\Debug\net8.0\BaloBienThe.deps.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\bin\Debug\net8.0\BaloBienThe.runtimeconfig.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\bin\Debug\net8.0\BaloBienThe.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\bin\Debug\net8.0\BaloBienThe.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\refint\BaloBienThe.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\BaloBienThe.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\BaloBienThe\obj\Debug\net8.0\ref\BaloBienThe.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\bin\Debug\net8.0\Huffman.exe
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\bin\Debug\net8.0\Huffman.deps.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\bin\Debug\net8.0\Huffman.runtimeconfig.json
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\bin\Debug\net8.0\Huffman.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\bin\Debug\net8.0\Huffman.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\refint\Huffman.dll
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.pdb
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\Huffman.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BTL_Nhom8_Phan2\Huffman\obj\Debug\net8.0\ref\Huffman.dll

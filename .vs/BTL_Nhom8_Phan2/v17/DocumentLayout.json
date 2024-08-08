@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4EE29D-AF06-461C-97AF-E8D955866415}|NguoiGiaoHang\\NguoiGiaoHang.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan2\\nguoigiaohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4EE29D-AF06-461C-97AF-E8D955866415}|NguoiGiaoHang\\NguoiGiaoHang.csproj|solutionrelative:nguoigiaohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11DF1A5-BE94-41A8-90BE-EE54740E4C34}|Huffman\\Huffman.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan2\\huffman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11DF1A5-BE94-41A8-90BE-EE54740E4C34}|Huffman\\Huffman.csproj|solutionrelative:huffman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AA23B0-DC24-4ECA-8893-AEF82615DF00}|BaloBienThe\\BaloBienThe.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan2\\balobienthe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AA23B0-DC24-4ECA-8893-AEF82615DF00}|BaloBienThe\\BaloBienThe.csproj|solutionrelative:balobienthe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B38244-02B1-4F51-BF45-E5B3C67B5B8C}|Balo\\Balo.csproj|c:\\users\\acer\\desktop\\btl_nhom8_phan2\\balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B38244-02B1-4F51-BF45-E5B3C67B5B8C}|Balo\\Balo.csproj|solutionrelative:balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\Huffman\\Program.cs",
+              "RelativeDocumentMoniker": "Huffman\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\Huffman\\Program.cs",
+              "RelativeToolTip": "Huffman\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:56:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\BaloBienThe\\Program.cs",
+              "RelativeDocumentMoniker": "BaloBienThe\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\BaloBienThe\\Program.cs",
+              "RelativeToolTip": "BaloBienThe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:16:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\NguoiGiaoHang\\Program.cs",
+              "RelativeDocumentMoniker": "NguoiGiaoHang\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\NguoiGiaoHang\\Program.cs",
+              "RelativeToolTip": "NguoiGiaoHang\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:05:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\Balo\\Program.cs",
+              "RelativeDocumentMoniker": "Balo\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BTL_Nhom8_Phan2\\Balo\\Program.cs",
+              "RelativeToolTip": "Balo\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:01:49.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
